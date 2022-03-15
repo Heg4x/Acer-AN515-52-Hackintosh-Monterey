@@ -8,5 +8,4 @@
 | RAM                 | Kingston 16GB(2x8GB) DDR4 2666Mhz                     | 
 | WiFi & Bluetooth    | Intel(R) Wireless-AC 9560                             |
 
-
-![Ekran Resmi 2022-03-15 23 05 59](https://user-images.githubusercontent.com/96351382/158462458-0cf3b8c7-1c41-4837-bdc1-e774931956d6.png)
+![Ekran Resmi 2022-03-15 23 12 20](https://user-images.githubusercontent.com/96351382/158463439-99d2d8c2-5d9c-4be6-b439-24f5c73d8600.png)
