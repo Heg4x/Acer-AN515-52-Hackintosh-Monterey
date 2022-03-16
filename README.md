@@ -1,7 +1,7 @@
 |                     |                                                       |
 |  :--------------    | :---------------------------------------------------- |
 | macOS 12.3          | OpenCore 0.7.9
-| Model               | Acer An515-52
+| Device              | Acer An515-52
 | CPU                 | Intel Core i7-8750H                                   |
 | Graphics            | Intel UHD Graphics 630                                |
 | SSD                 | WD Black 512GB                                        |
